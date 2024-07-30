@@ -1,3 +1,5 @@
+Hello, this project was done during the summer semester of Operating Systems at Texas State University.
+
 Clone the repo in a safe directory that you can easily navigate to:
 Run the following command to execute using python in Linux:
 
