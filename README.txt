@@ -1,5 +1,4 @@
-Navigate to the directory where the assign4.py file is located.
-
+Clone the repo in a safe directory that you can easily navigate to:
 Run the following command to execute using python in Linux:
 
 python assign4.py
